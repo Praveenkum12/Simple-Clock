@@ -1,0 +1,14 @@
+{
+  "name": "simple-clock",
+  "version": "1.0.0",
+  "description": "A simple clock to know your valuable time.",
+  "default": "index.html",
+  "scripts": {
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "author": "Praveen",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}
